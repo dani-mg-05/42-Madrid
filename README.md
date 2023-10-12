@@ -14,20 +14,20 @@
 | Proyecto | Nota |
 | :------: | :--: |
 | <a href="https://github.com/dani-mg-05/Shell00">Shell00</a> | `100 / 100` |
-| Shell01 | `55 / 100` |
-| C00 | `85 / 100` |
-| C01 | `100 / 100` |
-| C02 | `65 / 100` |
-| C03 | `75 / 100` |
-| C04 | `70 / 100` |
-| C05 | `80 / 100` |
-| C06 | `100 / 100` |
-| C07 | `60 / 100` |
-| C08 | `40 / 100` |
-| Rush00 | `58 / 100` |
-| Rush01 | `0 / 100` |
-| Rush02 | `58 / 100` |
-| BSQ | `0 / 100` |
+| <a href="https://github.com/dani-mg-05/Shell01">Shell01</a> | `55 / 100` |
+| <a href="https://github.com/dani-mg-05/C00">C00</a> | `85 / 100` |
+| <a href="https://github.com/dani-mg-05/C01">C01</a> | `100 / 100` |
+| <a href="https://github.com/dani-mg-05/C02">C02</a> | `65 / 100` |
+| <a href="https://github.com/dani-mg-05/C03">C03</a> | `75 / 100` |
+| <a href="https://github.com/dani-mg-05/C04">C04</a> | `70 / 100` |
+| <a href="https://github.com/dani-mg-05/C05">C05</a> | `80 / 100` |
+| <a href="https://github.com/dani-mg-05/C06">C06</a> | `100 / 100` |
+| <a href="https://github.com/dani-mg-05/C07">C07</a> | `60 / 100` |
+| <a href="https://github.com/dani-mg-05/C08">C08</a> | `40 / 100` |
+| <a href="https://github.com/dani-mg-05/Rush00">Rush00</a> | `58 / 100` |
+| <a href="https://github.com/dani-mg-05/Rush01">Rush01</a> | `0 / 100` |
+| <a href="https://github.com/dani-mg-05/Rush02">Rush02</a> | `58 / 100` |
+| <a href="https://github.com/dani-mg-05/BSQ">BSQ</a> | `0 / 100` |
 
 ### Cursus 🚀​
 | Proyecto | Nota |
