@@ -32,4 +32,5 @@
 ### Cursus 🚀​
 | Proyecto | Nota |
 | :------: | :--: |
-| <a href="https://github.com/dani-mg-05/Shell00">libft</a> | `125 / 100`|
+| <a href="https://github.com/dani-mg-05/libft">libft</a> | `125 / 100`|
+| <a href="https://github.com/dani-mg-05/ft_printf">ft_printf</a> | `100 / 100`|
