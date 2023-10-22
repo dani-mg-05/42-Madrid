@@ -13,6 +13,25 @@
 </p>
 
 <p align="center">
+   <h3 align="center">Cursus 🚀​</h3>
+</p>
+
+<table align="center">
+  <tr>
+    <th>Proyecto</th>
+    <th>Nota</th>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/dani-mg-05/libft">libft</a></td>
+    <td align="center"><strong><i>125 / 100</i></strong></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/dani-mg-05/ft_printf">ft_printf</a></td>
+    <td align="center"><strong><i>100 / 100</i></strong></td>
+  </tr>
+</table>
+
+<p align="center">
    <h3 align="center">Piscina 🏊​​</h3>
 </p>
 
@@ -80,24 +99,5 @@
   <tr>
     <td align="center"><a href="https://github.com/dani-mg-05/BSQ">BSQ</a></td>
     <td align="center"><strong><i>0 / 100</i></strong></td>
-  </tr>
-</table>
-
-<p align="center">
-   <h3 align="center">Cursus 🚀​</h3>
-</p>
-
-<table align="center">
-  <tr>
-    <th>Proyecto</th>
-    <th>Nota</th>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/dani-mg-05/libft">libft</a></td>
-    <td align="center"><strong><i>125 / 100</i></strong></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/dani-mg-05/ft_printf">ft_printf</a></td>
-    <td align="center"><strong><i>100 / 100</i></strong></td>
   </tr>
 </table>
