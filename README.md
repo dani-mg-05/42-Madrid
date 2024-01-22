@@ -29,6 +29,10 @@
     <td align="center"><a href="https://github.com/dani-mg-05/ft_printf">ft_printf</a></td>
     <td align="center"><strong><i>100 / 100</i></strong></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/dani-mg-05/get_next_line">get_next_line</a></td>
+    <td align="center"><strong><i>125 / 100</i></strong></td>
+  </tr>
 </table>
 
 <p align="center">
