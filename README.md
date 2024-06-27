@@ -40,7 +40,7 @@
 </table>
 
 <p align="center">
-   <h3 align="center">Piscina 🏊​​</h3>
+   <h3 align="center">Piscina C 🏊​​</h3>
 </p>
 
 <table align="center">
@@ -107,5 +107,28 @@
   <tr>
     <td align="center"><a href="https://github.com/dani-mg-05/BSQ">BSQ</a></td>
     <td align="center"><strong><i>0 / 100</i></strong></td>
+  </tr>
+</table>
+
+<p align="center">
+   <h3 align="center">Piscina Discovery Ciberseguridad 👨‍💻​​</h3>
+</p>
+
+<table align="center">
+  <tr>
+    <th>Proyecto</th>
+    <th>Nota</th>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/dani-mg-05/Cellule0">Cellule0</a></td>
+    <td align="center"><strong><i>100 / 100</i></strong></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/dani-mg-05/Cellule1">Cellule1</a></td>
+    <td align="center"><strong><i>55 / 100</i></strong></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/dani-mg-05/Cellule2">Cellule2</a></td>
+    <td align="center"><strong><i>85 / 100</i></strong></td>
   </tr>
 </table>
