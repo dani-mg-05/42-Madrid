@@ -125,10 +125,10 @@
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/dani-mg-05/Cellule1">Cellule1</a></td>
-    <td align="center"><strong><i>55 / 100</i></strong></td>
+    <td align="center"><strong><i>100 / 100</i></strong></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/dani-mg-05/Cellule2">Cellule2</a></td>
-    <td align="center"><strong><i>85 / 100</i></strong></td>
+    <td align="center"><strong><i>100 / 100</i></strong></td>
   </tr>
 </table>
