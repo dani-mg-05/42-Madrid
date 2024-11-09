@@ -42,6 +42,10 @@
     <td align="center"><strong><i>125 / 100</i></strong></td>
   </tr>
   <tr>
+    <td align="center"><a href="https://github.com/dani-mg-05/fract-ol">fract-ol</a></td>
+    <td align="center"><strong><i>125 / 100</i></strong></td>
+  </tr>
+  <tr>
     <td align="center">Exam Rank 02</td>
     <td align="center"><strong><i>100 / 100</i></strong></td>
   </tr>
