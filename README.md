@@ -9,11 +9,7 @@
 ---
 
 <p align="center">
-   <h2 align="center">Proyectos 📄​</h2>
-</p>
-
-<p align="center">
-   <h3 align="center">Cursus 🚀​</h3>
+   <h3 align="center">🚀 Cursus 🚀​</h3>
 </p>
 
 <table align="center">
@@ -51,8 +47,10 @@
   </tr>
 </table>
 
+<br />
+
 <p align="center">
-   <h3 align="center">Piscina C 🏊​​</h3>
+   <h3 align="center">🏊 Piscina C 🏊​​</h3>
 </p>
 
 <table align="center">
@@ -122,8 +120,10 @@
   </tr>
 </table>
 
+<br />
+
 <p align="center">
-   <h3 align="center">Piscina Discovery Ciberseguridad 👨‍💻​​</h3>
+   <h3 align="center">👨‍💻 Piscina Discovery Ciberseguridad 👨‍💻​​</h3>
 </p>
 
 <table align="center">
