@@ -60,7 +60,11 @@
   <tr>
     <td align="center"><a href="https://github.com/dani-mg-05/philosophers">philosophers</a></td>
     <td align="center"><strong><i>125 / 100</i></strong></td>
-  </tr>
+   </tr>
+   <tr>
+    <td align="center">Exam Rank 04</td>
+    <td align="center"><strong><i>100 / 100</i></strong></td>
+   </tr>
 </table>
 
 <br />
