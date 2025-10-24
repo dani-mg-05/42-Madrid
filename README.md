@@ -65,6 +65,10 @@
     <td align="center">Exam Rank 04</td>
     <td align="center"><strong><i>100 / 100</i></strong></td>
    </tr>
+   <tr>
+    <td align="center">NetPractice</td>
+    <td align="center"><strong><i>100 / 100</i></strong></td>
+   </tr>
 </table>
 
 <br />
