@@ -85,6 +85,10 @@
     <td align="center"><a href="https://github.com/dani-mg-05/CPP-Module-03">CPP Module 03</a></td>
     <td align="center"><strong><i>100 / 100</i></strong></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/dani-mg-05/CPP-Module-04">CPP Module 04</a></td>
+    <td align="center"><strong><i>100 / 100</i></strong></td>
+  </tr>
 </table>
 
 <br />
